@@ -1,0 +1,19 @@
+.bg-lights {
+  background-color: #2c3e50 !important;
+}
+.con {
+  width: 60% !important;
+}
+.nav {
+  font-size: 28px;
+}
+.nav-link {
+  font-size: 16px;
+}
+.nav-link:hover {
+  color: green !important;
+}
+
+.bg-green {
+  background-color: #1abc9c;
+}
